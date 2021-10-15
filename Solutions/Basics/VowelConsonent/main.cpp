@@ -9,5 +9,6 @@ using namespace std;
 int main()
 {
     cout << "Hello world!" << endl;
+    cout << "AEIOU are Vowels" << endl;
     return 0;
 }
