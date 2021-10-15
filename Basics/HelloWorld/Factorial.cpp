@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main(void)
+int main()
 {
     int i, fact = 1;
     cout<<"Enter the number: ";
@@ -10,7 +10,7 @@ int main(void)
     
     if(i < 0)
     {
-        cout<<"Please enter only positive values! ";
+        cout<<"Please enter a natural number";
     }
     else
     {
