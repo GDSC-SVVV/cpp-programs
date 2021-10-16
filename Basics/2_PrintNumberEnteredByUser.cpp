@@ -1,8 +1,10 @@
 #include<iostream>
 using namespace std;
-int main() {
+int main() 
+{
   int N;
   cout<<"Enter a number : ";
   cin>>N;
   cout<<"The entered number is "<<N;
+  return 0;
 }
