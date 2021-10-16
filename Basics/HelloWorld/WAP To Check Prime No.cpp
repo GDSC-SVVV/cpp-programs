@@ -1,4 +1,4 @@
-#C++ Program to Check Prime Number By Creating a Function
+//C++ Program to Check Prime Number By Creating a Function
 
 
 #include <iostream>
