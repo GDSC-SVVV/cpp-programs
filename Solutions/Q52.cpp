@@ -24,4 +24,5 @@ int main()
 {
     string s = "rishiraj52";
     CharFreq(s);
+    return 0;
 }
